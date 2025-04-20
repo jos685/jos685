@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph Oduor
-- 👀 I’m interested in Web Development both backend and front end utilizing frontend frameworks ; react and vanilla js while backend i utilise laravel, php framework and node Js. 
+- 👀 I’m a Full Stack web developer with skills in  both backend and front end utilizing frontend frameworks ; react, Angular and vanilla js while backend i utilise laravel, php framework, python django and node Js. 
 - 🌱 I’m currently learning React Front end framework with laravel and node js as my main backend technology.
 - 💞️ I’m looking to collaborate on any project regarding web development as the saying goes; application on projects is the way to improve your skillss.
 - 📫 You can reach me at email:odourjosephowang@gmail.com...
