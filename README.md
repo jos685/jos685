@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Joseph Oduor Owang, part-time human, full-time coding wizard.
 - 👀 I’m a Full Stack web developer with skills in  both backend and front end.🧙‍♂️ Frontend arsenal: React, Typescript , python , Next js             🛠 Backend black magic: Laravel, PHP, Python/Django, Node.js
 - 🌱 I’m currently working on clients jobs and on my free time listen to podcasts while coding.
 - 💞️ I’m a team player and love challenges on web and app development as the saying goes; you dont learn code....you debug application and projects untill you become a code 💀.
